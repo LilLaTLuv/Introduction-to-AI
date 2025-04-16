@@ -1,101 +1,132 @@
 # Introduction-to-AI
-# AI for Call Center Challenges
 
-## Part One: Introduction
+# IT 215 - Introduction to AI: Generative AI Explorations
 
-Imagine a world where call center agents can focus on complex problems, provide personalized support, and effortlessly handle a surge in customer calls. This future is becoming a reality thanks to artificial intelligence (AI). By automating routine tasks, improving customer experiences, and enhancing agent productivity, generative AI tools have the potential to revolutionize the call center industry. In this paper, we will explore how AI can address common challenges faced by call centers, such as scheduling, difficult conversations, and training.
+This repository contains a collection of activities and a project completed for the IT 215 - Introduction to AI course. These resources explore the capabilities and limitations of various Generative AI tools through practical application and analysis.
 
-AI as a tool can increase efficiency by automating the more repetitive tasks, such as scheduling or data analysis, while also providing increased customer service by providing instantaneous responses and personalized solutions. It can also be used to create and update training manuals quickly and efficiently. Finally, it can be used to identify many operating issues within scheduling and training, better optimizing employees’ time.
+## Table of Contents
 
-This project utilizes Gemini to help address these problems. Based on experience with the program, it generates optimal schedules and incredibly detailed training instructions for tasks. It also responds handily to corrections and new information to generate increasingly accurate information over time. Finally, it tends to quickly pick up stylizing choices, which would keep all materials generated to a more consistent voice.
+1.  [Module Two Activity: Generative AI Evaluation - Shakespeare's Soliloquy (September 15, 2024)](#module-two-activity-generative-ai-evaluation---shakespeares-soliloquy-september-15-2024)
+2.  [Module Three Activity: Dress Code Policy - Image Generation (September 22, 2024)](#module-three-activity-dress-code-policy---image-generation-september-22-2024)
+3.  [Module Four Activity: Dress Code Policy - Image Generation Analysis (September 29, 2024)](#module-four-activity-dress-code-policy---image-generation-analysis-september-29-2024)
+4.  [Module Five Project: AI for Call Center Challenges (October 6, 2024)](#module-five-project-ai-for-call-center-challenges-october-6-2024)
+5.  [Module Six Activity: Analyzing The Module Five Project (October 6, 2024)](#module-six-activity-analyzing-the-module-five-project-october-6-2024)
+6.  [Module Seven Project: AI for Call Center Challenges (October 20, 2024)](#module-seven-project-ai-for-call-center-challenges-october-20-2024)
+7.  [Module One Activity: Generative AI Summary - Lost Girl (September 8, 2024)](#module-one-activity-generative-ai-summary---lost-girl-september-8-2024)
 
-## Part Two: Practical Applications
+## 1. Module Two Activity: Generative AI Evaluation - Shakespeare's Soliloquy (September 15, 2024)
 
-### AI Definition:
+This activity evaluates the ability of Gemini (Google AI) to interpret and modernize Shakespeare's famous "To be, or not to be" soliloquy from Hamlet. It compares the original text with Gemini's output, analyzing the AI's success in retaining meaning while making the language more accessible for a modern audience.
 
-**Prompt:** “What is a good definition of Artificial Intelligence? Please make a definitive classification of AI and how it can be used.”
+**Key Findings:**
 
-**AI:** " Artificial Intelligence (AI) can be broadly defined as the simulation of human intelligence processes by machines, especially computer systems. This includes the ability to reason, learn, solve problems, understand natural language, and perceive the world.
+* Gemini successfully translated the Old English into a more contemporary version, largely preserving the original meaning and poetic structure.
+* The modernized version enhances understanding for readers unfamiliar with Shakespearean English.
+* Initial prompts yielded the original soliloquy, requiring iterative prompting to elicit a revised version.
+* While pleased with the final output, the process highlighted the need for specific and nuanced prompting to guide the AI's creative interpretation.
 
-**Classification of AI**
+**References:**
 
-AI can be classified into two main categories:
+* Gemini. (2024). Retrieved 8 September 2024, from [https://gemini.google.com/app](https://gemini.google.com/app)
+* Speech: “To be, or not to be, that is the question”. (2024). Retrieved 15 September 2024, from [https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question](https://www.poetryfoundation.org/poems/56965/speech-to-be-or-not-to-be-that-is-the-question)
+* Gemini Conversation Log: [https://g.co/gemini/share/1b4eb09602a9](https://g.co/gemini/share/1b4eb09602a9)
 
-* **Narrow AI (Weak AI):** This type of AI is designed to perform specific tasks. It is highly specialized and excels at its designated function but lacks general intelligence or consciousness. Examples include facial recognition systems, virtual assistants like Siri and Alexa, and self-driving cars.
-* **General AI (Strong AI):** This hypothetical type of AI possesses general intelligence and can understand, learn, and apply knowledge across a wide range of tasks, just like a human. While it remains a theoretical concept, achieving general AI would represent a significant breakthrough in computer science.
+## 2. Module Three Activity: Dress Code Policy - Image Generation (September 22, 2024)
 
-**How AI Can Be Used**
+This activity explores the use of Leonardo AI, an AI-powered image generation tool, to create a visual guide for a business-casual dress code in a diverse workplace. The prompt aimed to generate an inclusive and professional image showcasing appropriate attire for both men and women from various cultural backgrounds.
 
-AI has a wide range of applications across various industries:
+**Tool Evaluation (Leonardo AI):**
 
-* **Healthcare:** Diagnosing diseases, drug discovery, personalized medicine, and medical imaging.
-* **Finance:** Fraud detection, algorithmic trading, risk assessment, and customer service.
-* **Manufacturing:** Quality control, predictive maintenance, and robotics.
-* **Customer Service:** Chatbots, virtual assistants, and personalized recommendations.
-* **Transportation:** Self-driving cars, traffic optimization, and logistics.
-* **Entertainment:** Game development, content creation, and personalized recommendations.
-* **Education:** Personalized learning, intelligent tutoring systems, and automated grading.
-* **Research:** Data analysis, scientific discovery, and simulations.
+* **Strengths:** High degree of customization, generally visually appealing and relevant output, versatile for various creative tasks.
+* **Application:** Leonardo AI effectively generated a visual guide suitable for illustrating a dress code policy. The customization features allowed for incorporating elements of diversity and professionalism as requested in the prompt.
 
-AI has the potential to revolutionize many aspects of our lives, but it is important to consider ethical implications, biases, and the potential for job displacement.”
+**Reference:**
 
-### Potential Impact of AI on Call Center Job Security:
+* Image Creation. (2024). Retrieved 22 September 2024, from [https://app.leonardo.ai/image-generation](https://app.leonardo.ai/image-generation)
 
-**Prompt:** " Discuss the potential impact of AI on job security in a call center environment, and how it may impact those roles in the coming years. What kind of adjustments to their work can they expect to make? What will AI be expected to do and where would human work be likely to still be needed? Can it assist them with their work? How? Do people in call centers need to study new ways of doing their jobs in conjunction with AI? Will this impact pay and job opportunities?”
+## 3. Module Four Activity: Dress Code Policy - Image Generation Analysis (September 29, 2024)
 
-**AI:** “The advent of artificial intelligence (AI) is reshaping various industries, and call centers are no exception. While AI offers significant potential for improving efficiency and customer experience, it also raises concerns about job security.
+This activity builds upon the previous Module Three activity by critically analyzing the images generated by Leonardo AI for the business-casual dress code policy. It assesses the AI's success in meeting the prompt's requirements for diversity and inclusivity.
 
-**Potential Impact on Roles**
+**Key Observations:**
 
-* **Job Displacement:** Some roles within call centers, particularly those involving repetitive, task-oriented tasks like answering frequently asked questions or providing basic customer support, could be automated by AI-powered chatbots or virtual assistants.
-* **Role Evolution:** However, AI is more likely to complement rather than replace human agents. As AI handles routine tasks, human agents can focus on more complex issues, requiring higher-order skills such as problem-solving, empathy, and negotiation.
+* While the generated images provided a range of clothing options for a diverse workplace, the text within the images was often nonsensical and unusable.
+* The AI-generated visuals were considered a useful starting point, potentially reducing the time required for human creation of such a guide, but requiring human editing and revision for usability.
+* Bias was observed in the generated images, with a greater variety of clothing options presented for women compared to men.
+* An Anglo-centric bias was also noted, with limited representation of Middle Eastern, African, and Asian styles of business attire, highlighting areas for improvement in the AI's understanding and representation of global diversity in professional wear.
 
-**Adjustments to Work**
+**Reference:**
 
-* **Handling More Complex Issues:** Human agents will likely be tasked with resolving complex customer inquiries, handling complaints, and providing personalized support.
-* **Training AI Systems:** Agents may be involved in training and refining AI systems to ensure accurate and effective responses.
-* **Collaborating with AI:** Agents will need to learn to work alongside AI tools, leveraging their capabilities to enhance their own performance.
+* Image Creation. (2024). Retrieved 22 September 2024, from [https://app.leonardo.ai/image-generation](https://app.leonardo.ai/image-generation)
 
-**AI's Role and Human Needs**
+## 4. Module Five Project: AI for Call Center Challenges (October 6, 2024)
 
-* **Automation of Routine Tasks:** AI can automate tasks like scheduling appointments, providing basic product information, and handling simple customer inquiries.
-* **Data Analysis:** AI can analyze large amounts of customer data to identify trends and patterns, helping agents tailor their responses.
-* **Natural Language Processing:** AI-powered chatbots can understand and respond to customer queries in natural language, improving customer satisfaction.
+This project explores the potential of Artificial Intelligence (AI), specifically using Gemini (Google AI), to address common challenges faced in call center environments, including scheduling, handling difficult conversations, and training.
 
-While AI can handle many tasks, human agents will still be essential for tasks that require empathy, judgment, and complex problem-solving.
+**Key Areas Explored:**
 
-**Learning New Ways of Working**
+* **Introduction:** Outlines the potential of AI to revolutionize call centers by automating tasks, improving customer experiences, and enhancing agent productivity.
+* **AI Definition and Classification:** Provides a definition of AI and its classification into Narrow (Weak) AI and General (Strong) AI, as generated by Gemini.
+* **Impact on Job Security:** Discusses the potential for job displacement due to AI automation while also highlighting the likely evolution of roles towards more complex tasks requiring human skills.
+* **AI's Role and Human Needs:** Explores how AI can automate routine tasks, analyze data, and process natural language, while emphasizing the continued need for human agents in areas requiring empathy, judgment, and complex problem-solving.
+* **Learning New Ways of Working:** Highlights the necessity for call center agents to develop new technical and soft skills to effectively collaborate with AI tools.
+* **Impact on Pay and Job Opportunities:** Offers a nuanced perspective on the potential changes in pay and job opportunities, suggesting a shift towards skilled roles alongside AI.
+* **Conclusion:** Summarizes the transformative potential of AI in call centers, emphasizing the importance of ethical considerations and the need for a balanced integration of AI and human capabilities.
 
-Call center agents will need to develop new skills to effectively work alongside AI. This may include:
+**References:**
 
-* **Technical Skills:** Understanding how AI systems work and how to interact with them.
-* **Soft Skills:** Enhancing skills like empathy, communication, and critical thinking.
-* **Continuous Learning:** Staying updated on the latest AI technologies and their applications in the call center industry.
+* Gemini. (2024). Retrieved 13 September 2024, from [https://gemini.google.com/app](https://gemini.google.com/app)
+* Gemini chat (2024) Retrieved 13 September 2024, from [https://g.co/gemini/share/b6611af6f7b7](https://g.co/gemini/share/b6611af6f7b7)
 
-**Impact on Pay and Job Opportunities**
+## 5. Module Six Activity: Analyzing The Module Five Project (October 6, 2024)
 
-The impact on pay and job opportunities will depend on several factors, including the speed of AI adoption, the extent of automation, and the ability of workers to adapt to new roles. While some roles may become obsolete, the demand for skilled human agents capable of working alongside AI is likely to increase.
+In this activity, Gemini (Google AI) was used to analyze the previously completed Module Five Project. The goal was to evaluate Gemini's ability to provide detailed, helpful feedback while retaining the original author's voice.
 
-In conclusion, AI is poised to transform the call center industry. While there is a risk of job displacement, the more likely scenario is a shift in the nature of call center work. By developing new skills and learning to collaborate with AI, call center agents can position themselves for success in the evolving landscape.”
+**Key Observations:**
 
-**Analysis of AI-Generated Content:**
+* Gemini provided structured and detailed analysis, offering valuable advice and examples for improvement.
+* The AI demonstrated an ability to adapt to the author's writing style and tone, likely due to prior interactions.
+* Strengths of Gemini included recommending sentence shortening, suggesting supplementary updates, and providing helpful frameworks.
+* A perceived weakness was a lack of inherent creativity beyond the provided prompts, emphasizing the continued need for human input and originality.
+* Overall, Gemini was found to be an excellent tool for editing content and enhancing writing skills, providing a strong foundation for improvement while requiring thoughtful and creative human application.
 
-The AI-generated content effectively addressed the concern of job displacement. However, it could be further improved by discussing the ethical implications of using AI in a customer service context, such as ensuring fairness and transparency. Questions of this nature can increase the efficiency of using AI and help prevent issues before they become a problem. However, the information Gemini provided was thorough and useful in its depth and capacity based on the prompt provided. The vagueness of the reply regarding the impact on pay is understandable without specific figures for comparison. All in all, it is a robust dissection of the concerns in job displacement with the advent of AI in call centers, and no needed corrections are apparent.
+**References:**
 
-## Part Three: Responsible AI
+* Gemini. (2024). Retrieved 13 September 2024, from [https://gemini.google.com/app](https://gemini.google.com/app)
+* Gemini chat (2024) Retrieved 13 September 2024, from [https://g.co/gemini/share/c4e9a0d777a9](https://g.co/gemini/share/c4e9a0d777a9)
 
-The introduction of AI into organizations raises several ethical concerns. One significant area of risk is bias. AI systems can inherit biases present in the data they are trained on, leading to discriminatory outcomes. For example, a biased AI algorithm used in hiring could unfairly discriminate against certain groups of applicants. Another area of risk is privacy. AI systems collect and process large amounts of data, raising concerns about data protection and misuse. Ensuring that AI systems are developed and used in a way that respects individual privacy is crucial. Additionally, there is a risk of job displacement as AI automates tasks traditionally performed by humans. It is important to consider the potential social and economic impacts of job displacement and develop strategies to mitigate its negative effects.
+## 6. Module Seven Project: AI for Call Center Challenges (October 20, 2024)
 
-The introduction of AI can have both positive and negative impacts on an organization. On the positive side, AI can improve efficiency by automating routine tasks, enhance customer satisfaction through personalized experiences, and drive innovation. However, implementing AI can also be costly and may require significant changes to existing processes and systems. Additionally, there may be resistance from employees who fear job loss or changes to their work routines. Organizations must carefully consider the potential benefits and drawbacks of AI before implementing it.
+This project further explores the potential of Artificial Intelligence (AI), again utilizing Gemini (Google AI), to address common challenges within call center environments. It delves deeper into specific applications of AI in scheduling, handling difficult conversations, and training.
 
-The introduction of AI tools can significantly change the nature of work but will likely have a more obviously significant impact on call centers. AI can automate routine tasks, such as scheduling appointments, providing basic product information, and handling simple customer inquiries. This can free up human agents to focus on more complex and valuable tasks, such as resolving customer complaints and providing personalized support. AI-powered chatbots can provide instant responses to customer queries and can be trained to understand and respond to customer inquiries in natural language. This can improve customer satisfaction and reduce wait times. AI can assist agents by providing real-time information and suggestions, helping them to resolve customer issues more efficiently and effectively. Additionally, AI can be used to analyze customer data to identify trends and patterns, which can help agents tailor their responses.
+**Key Areas Explored:**
 
-The impact isn’t just on how things will be run, but also impacts the employees doing them. Some roles within call centers, particularly those involving repetitive, task-oriented tasks like answering frequently asked questions or providing basic customer support, could be automated by AI-powered chatbots or virtual assistants. However, the demand for skilled human agents capable of working alongside AI is likely to increase. The introduction of AI will create new job roles, such as AI engineers, data scientists, and AI ethics specialists. Call center agents will need to develop new skills to effectively work alongside AI. This may include understanding how AI systems work, enhancing soft skills like empathy and communication, and staying updated on the latest AI technologies.
+* **Introduction:** Reinforces the transformative potential of AI in the call center industry.
+* **AI Definition and Classification:** Presents Gemini's definition and classification of AI.
+* **Impact on Job Security:** Discusses the evolving roles of call center agents in the age of AI.
+* **AI's Role and Human Needs:** Elaborates on the collaborative relationship between AI and human agents.
+* **Learning New Ways of Working:** Emphasizes the importance of skill development for call center professionals.
+* **Impact on Pay and Job Opportunities:** Provides insights into the potential shifts in compensation and employment prospects.
+* **Responsible AI:** Addresses ethical considerations, including bias and privacy, in the context of AI implementation in customer service.
+* **Conclusion:** Underscores the significant impact of AI on call centers and the importance of responsible and strategic adoption.
 
-Overall, the introduction of AI tools has the potential to transform the call center industry. While there is a risk of job displacement, the more likely scenario is a shift in the nature of call center work. By developing new skills and learning to collaborate with AI, call center agents can position themselves for success in the evolving landscape. All in all, AI can help call centers meet the increasing demands of today's customers. However, it is essential to consider ethical implications, such as biases and privacy concerns, to ensure that AI is used responsibly. As AI continues to evolve, call centers that embrace this technology will be well-positioned to thrive in the future.
+**References:**
 
-## References
+* Gemini. (2024). Retrieved 13 September 2024, from [https://gemini.google.com/app](https://gemini.google.com/app)
+* Gemini chat (2024) Retrieved 13 September 2024, from [https://g.co/gemini/share/b6611af6f7b7](https://g.co/gemini/share/b6611af6f7b7)
 
-Gemini. (2024). Retrieved 13 September 2024, from https://gemini.google.com/app
+## 7. Module One Activity: Generative AI Summary - Lost Girl (September 8, 2024)
 
-Gemini chat (2024) Retrieved 13 September 2024, from https://g.co/gemini/share/b6611af6f7b7
+This initial activity explores the use of Gemini (Google AI) to generate a detailed summary of the "Lost Girl" television series. The process involved iterative prompting to guide the AI in providing a comprehensive overview of the show's premise, plot progression, key characters, and the protagonist's unique abilities within the fae world. The evolution of the summary through multiple prompts highlights the importance of clear and specific instructions when interacting with generative AI for information retrieval and summarization.
+
+**Key Aspects of the Summary:**
+
+* **Show Premise:** Introduction to Bo, a succubus navigating the supernatural world of fae.
+* **Plot Progression:** Overview of Bo's journey of self-discovery, her involvement with the Light and Dark Fae factions, and the challenges she faces.
+* **Key Characters:** Identification of central characters like Bo, Dyson, and Kenzi, and their roles in the narrative.
+* **Protagonist's Powers:** Explanation of Bo's succubus abilities and other unique powers.
+* **Iterative Refinement:** The process of providing increasingly specific prompts to elicit more detailed and accurate information, including key plot spoilers and character relationships.
+
+**Reference:**
+
+* Gemini. (2024). Retrieved 8 September 2024, from [https://gemini.google.com/app](https://gemini.google.com/app)
